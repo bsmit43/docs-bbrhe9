@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-ryxehd.citysinglescommunity.com/sitemap.xml
